@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BMB1978
+- 👋 Hi, I’m @B MAGESH
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on playstore project 
