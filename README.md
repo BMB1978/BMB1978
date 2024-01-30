@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on playstore project 
-- 📫 How to reach me magiracing@gmail.com
+- 📫 How to reach me mahi.racing@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
