@@ -8,7 +8,7 @@ Original file is located at
 
 **EDA** **on** **play** **store** **app** **review**
 
-**by** **Niladri** **Mishra**
+**by** **Magesh** **Babu**
 
 **BUSINESS CONTEXT**
 
